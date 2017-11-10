@@ -49,16 +49,16 @@ h3#header {
   text-decoration: none;
   color: #868e96;
 }
-.jumbotron {
+div.jumbotron {
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
   text-align: center;
 }
-.jumbotron h1 {
+div.jumbotron h1 {
   font-size: 60px;
 }
-.jumbotron p {
+div.jumbotron p {
   font-size: 20px;
   padding: 0 40px 0 40px;
   line-height: 40px;
